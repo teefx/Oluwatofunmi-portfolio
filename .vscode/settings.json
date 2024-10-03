@@ -1,74 +1,52 @@
 {
   "workbench.colorCustomizations": {
-    // Editor Background
     "editor.background": "#1E1E1E",
-    // Editor Foreground (text color)
     "editor.foreground": "#D4D4D4",
-    // Selection color inside the editor
     "editor.selectionBackground": "#264F78",
-    // Color for matching brackets
     "editorBracketMatch.background": "#FFD700",
     "editorBracketMatch.border": "#000000",
-
-    // Cursor Color
     "editorCursor.foreground": "#FFCC00",
-
-    // Line Highlight Color
     "editor.lineHighlightBackground": "#333333",
-
-    // Gutter Background and Line Numbers
     "editorGutter.background": "#252526",
     "editorGutter.foreground": "#8B8B8B",
-
-    // Status Bar Customization
-    "statusBar.background": "#007ACC",
-    "statusBar.foreground": "#FFFFFF",
+    "statusBar.background": "#b3b3b3",
+    "statusBar.foreground": "#15202b",
     "statusBar.noFolderBackground": "#68217A",
-    "statusBar.debuggingBackground": "#CC6633",
-
-    // Activity Bar Customization
-    "activityBar.background": "#333333",
-    "activityBar.foreground": "#FFFFFF",
-    "activityBarBadge.background": "#007ACC",
-    "activityBarBadge.foreground": "#FFFFFF",
-
-    // Side Bar Customization
+    "activityBar.background": "#cccccc",
+    "activityBar.foreground": "#15202b",
+    "activityBarBadge.background": "#c758c7",
+    "activityBarBadge.foreground": "#15202b",
     "sideBar.background": "#252526",
     "sideBar.foreground": "#D4D4D4",
     "sideBarTitle.foreground": "#FFFFFF",
     "sideBarSectionHeader.background": "#333333",
-
-    // Panel Customization (Terminal, Problems, Output)
     "panel.background": "#1E1E1E",
-    "panel.border": "#007ACC",
-
-    // Tab Colors
     "tab.activeBackground": "#1E1E1E",
     "tab.activeForeground": "#FFFFFF",
     "tab.inactiveBackground": "#2D2D2D",
     "tab.inactiveForeground": "#8B8B8B",
-
-    // Scrollbar Colors
     "scrollbarSlider.background": "#79797950",
     "scrollbarSlider.hoverBackground": "#79797980",
     "scrollbarSlider.activeBackground": "#797979B0",
-
-    // Dropdown and Button Colors
     "dropdown.background": "#333333",
     "dropdown.border": "#007ACC",
     "dropdown.foreground": "#FFFFFF",
     "button.background": "#007ACC",
     "button.foreground": "#FFFFFF",
     "button.hoverBackground": "#005F9E",
-
-    // Debugging Colors
     "debugToolBar.background": "#333333",
     "debugIcon.breakpointForeground": "#FFCC00",
     "debugIcon.breakpointDisabledForeground": "#848484",
-
-    // Error and Warning Colors
-    "editorError.foreground": "#F14C4C",
-    "editorWarning.foreground": "#CCA700",
-    "editorInfo.foreground": "#3794FF"
+    "activityBar.activeBackground": "#cccccc",
+    "activityBar.inactiveForeground": "#15202b99",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#cccccc",
+    "statusBarItem.hoverBackground": "#999999",
+    "statusBarItem.remoteBackground": "#b3b3b3",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#b3b3b3",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#b3b3b399",
+    "titleBar.inactiveForeground": "#15202b99"
   }
 }
